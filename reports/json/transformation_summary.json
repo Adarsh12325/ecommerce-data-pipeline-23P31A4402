@@ -1,0 +1,9 @@
+{
+  "staging_to_production": "SUCCESS",
+  "production_to_warehouse": "SUCCESS",
+  "fact_table_rows": 20008,
+  "dimensions_created": [
+    "dim_customers",
+    "dim_products"
+  ]
+}

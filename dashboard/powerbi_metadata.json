@@ -1,0 +1,12 @@
+{
+  "tool": "Power BI Desktop",
+  "data_source": "fact_sales.csv",
+  "visuals": [
+    "Total Sales Revenue (Card)",
+    "Revenue by Product (Bar Chart)",
+    "Monthly Sales Trend (Line Chart)",
+    "Top 10 Products by Quantity Sold (Bar Chart)"
+  ],
+  "author": "Adarsh",
+  "status": "COMPLETED"
+}

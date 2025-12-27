@@ -1,0 +1,6 @@
+{
+  "pipeline_name": "Ecommerce Data Pipeline",
+  "start_time": "2025-01-01T09:30:00",
+  "end_time": "2025-01-01T10:05:00",
+  "execution_status": "SUCCESS"
+}

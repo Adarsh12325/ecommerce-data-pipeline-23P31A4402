@@ -1,0 +1,7 @@
+{
+  "database": "PostgreSQL",
+  "container_status": "RUNNING",
+  "disk_usage": "NORMAL",
+  "query_performance": "ACCEPTABLE",
+  "alerts": "NONE"
+}

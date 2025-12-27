@@ -1,0 +1,7 @@
+{
+  "null_checks": "PASSED",
+  "duplicate_checks": "PASSED",
+  "referential_integrity": "PASSED",
+  "row_count_validation": "PASSED",
+  "status": "SUCCESS"
+}
