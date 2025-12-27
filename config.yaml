@@ -1,0 +1,27 @@
+pipeline:
+  name: Ecommerce Data Pipeline
+  version: v1.0
+
+database:
+  type: postgresql
+  host: localhost
+  port: 5432
+  name: ecommerce
+  schema:
+    staging: staging
+    production: production
+    warehouse: warehouse
+
+data_paths:
+  raw_data: data/raw
+  processed_data: data/processed
+  analytics_output: data/analytics
+
+quality_checks:
+  allow_nulls: false
+  allow_duplicates: false
+  enforce_referential_integrity: true
+
+dashboard:
+  tool: Power BI Desktop
+  source_file: fact_sales.csv
