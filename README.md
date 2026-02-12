@@ -73,7 +73,7 @@ ecommerce-data-pipeline/
 │   └── config.yaml             #### Configuration file
 │
 ├── reports/                    #### report files directory
-|__ logs/                       #### log files directory
+├── logs/                       #### log files directory
 │
 ├── docs/
 │   ├── architecture.md         #### Architecture documentation
@@ -99,13 +99,13 @@ ecommerce-data-pipeline/
 
 ## Tech Stack
 ```
-Component	Technology
-Database	PostgreSQL 15
-Containerization	Docker
-Scripting	Python 3
-BI Tool	Power BI Desktop
-Data Format	CSV, JSON
-Testing	Pytest
+Component	           Technology
+Database      	        PostgreSQL 15
+Containerization	     Docker
+Scripting	           Python 3
+BI Tool	              Power BI Desktop
+Data Format	           CSV, JSON
+Testing	              Pytest
 ```
 
 ## Pipeline Execution (From Scratch)
@@ -179,12 +179,14 @@ Monthly Sales Trend
 ```
 ## Location:
 ```
-dashboard/
+dashboards/
 ├── powerbi_dashboard.pbix
-├── screenshot_1.png
-├── screenshot_2.png
-├── screenshot_3.png
-└── screenshot_4.png
+├── dashboard_1_total_sales.png
+├── dashboard_2_sales_by_product.png
+├── dashboard_3_sales_trend.png
+├── dashboard_4_top_products.png
+└── ecommerce_dashboard.png
+
 ```
 ## Generated Reports
 ```
