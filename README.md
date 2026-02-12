@@ -100,6 +100,7 @@ ecommerce-data-pipeline/
 ## Tech Stack
 ```
 Component	           Technology
+------------------------------------------
 Database      	        PostgreSQL 15
 Containerization	     Docker
 Scripting	           Python 3
@@ -190,17 +191,17 @@ dashboards/
 ```
 ## Generated Reports
 ```
-Report	File
+Report	                        File
+---------------------------------------------------
+Ingestion Summary	               ingestion_summary.json
 
-Ingestion Summary	ingestion_summary.json
+Quality Report	                  quality_report.json
 
-Quality Report	quality_report.json
+Transformation Summary	         transformation_summary.json
 
-Transformation Summary	transformation_summary.json
+Pipeline Execution	            pipeline_execution_report.json
 
-Pipeline Execution	pipeline_execution_report.json
-
-Monitoring Report	monitoring_report.json
+Monitoring Report	               monitoring_report.json
 ```
 ## Testing
 ```
