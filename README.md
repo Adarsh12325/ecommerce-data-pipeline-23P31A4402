@@ -191,7 +191,7 @@ dashboards/
 ```
 ## Generated Reports
 ```
-Report	                        File
+Report	                               File
 ---------------------------------------------------
 Ingestion Summary	               ingestion_summary.json
 
