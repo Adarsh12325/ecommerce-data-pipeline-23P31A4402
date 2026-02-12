@@ -1,4 +1,4 @@
-### End-to-End ETL Pipeline for E-Commerce Analytics Platform
+# End-to-End ETL Pipeline for E-Commerce Analytics Platform
 ## Project Overview
 
 This project implements an end-to-end Ecommerce Data Engineering Pipeline that ingests raw CSV data, processes it through multiple database layers, performs data quality checks, generates analytical outputs, and visualizes insights using Power BI.
