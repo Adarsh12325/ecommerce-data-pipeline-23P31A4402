@@ -1,0 +1,7 @@
+{
+  "dataset_name": "ecommerce_synthetic",
+  "records_generated": 10000,
+  "generation_date": "2026-02-12",
+  "generator_version": "1.0",
+  "description": "Synthetic ecommerce dataset for ETL pipeline testing"
+}

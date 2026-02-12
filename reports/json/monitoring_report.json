@@ -1,7 +1,5 @@
 {
-  "database": "PostgreSQL",
-  "container_status": "RUNNING",
-  "disk_usage": "NORMAL",
-  "query_performance": "ACCEPTABLE",
-  "alerts": "NONE"
+    "timestamp": "2026-02-12 22:30:15.482931",
+    "status": "SUCCESS",
+    "rows_processed": 10000
 }
