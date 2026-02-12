@@ -242,8 +242,6 @@ Re-runnable pipeline from scratch
 ```
 Name: Adarsh
 
-Program: B.Tech – Data Science
-
 Project: Ecommerce Data Engineering Pipeline
 
 Submission Version: v1.0
